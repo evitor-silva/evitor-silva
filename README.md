@@ -1,4 +1,4 @@
 # 👋 Olá, eu sou Vitor
-Sou desenvolvedor PHP, Framework Laravel, Vue.js <br>
+Sou desenvolvedor Java, Spring Boot <br>
 
 - 📫 Moro em Londrina
